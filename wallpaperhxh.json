@@ -1,34 +1,28 @@
 {
    "wallpapers": [
        {
-         "author": "Rick and Morty",
-         "url": "aaaaaaa",
-         "name": "Rick and Morty",
-         "thumbnail": "aaaaaaaaaaaaa"
+         "author": "hunterxhunter",
+         "url": "https://i.pinimg.com/564x/39/9e/4e/399e4e583679c04348e1cdc960085136.jpg",
+         "name": "kuroro",
+         "thumbnail": "https://i.pinimg.com/564x/39/9e/4e/399e4e583679c04348e1cdc960085136.jpg"
       }, 
       {
-         "author": "Rick and Morty",
-         "url": "aaaaaaaaaaaaaa",
-         "name": "Rick and Morty",
-         "thumbnail": "aaaaaaaaaaaaaa"
+         "author": "hunterxhunter",
+         "url": "https://i.pinimg.com/564x/d3/0a/24/d30a24a2f4399de398f39ba17c2680df.jpg",
+         "name": "gone",
+         "thumbnail": "https://i.pinimg.com/564x/d3/0a/24/d30a24a2f4399de398f39ba17c2680df.jpg"
       }, 
       {
-         "author": "Rick and Morty",
-         "url": "aaaaaaaaaaaaaaaaa",
-         "name": "Rick and Morty",
-         "thumbnail": "aaaaaaaaaaaaaaaa"
+         "author": "hunterxhunter",
+         "url": "https://i.pinimg.com/564x/1d/26/37/1d2637d140637834e3907fb28ed156cf.jpg",
+         "name": "hisoka",
+         "thumbnail": "https://i.pinimg.com/564x/1d/26/37/1d2637d140637834e3907fb28ed156cf.jpg"
       }, 
       {
-         "author": "Rick and Morty",
-         "url": "aaaaaaaaaaaaaa",
-         "name": "Rick and Morty",
-         "thumbnail": "aaaaaaaaaaaaa"
-      }, 
-      {
-         "author":"Rick and Morty",
-         "url":"aaaaaaaaaaaa",
-         "name":"Rick and Morty",
-         "thumbnail":"aaaaaaaaaaa"
+         "author":"hunterxhunter",
+         "url":"https://i.pinimg.com/564x/48/76/0b/48760becdbddf50bbbb949938af34076.jpg",
+         "name":"killia",
+         "thumbnail":"https://i.pinimg.com/564x/48/76/0b/48760becdbddf50bbbb949938af34076.jpg"
       }
    ]
 }
