@@ -1,0 +1,34 @@
+{
+   "wallpapers": [
+       {
+         "author": "Rick and Morty",
+         "url": "aaaaaaa",
+         "name": "Rick and Morty",
+         "thumbnail": "aaaaaaaaaaaaa"
+      }, 
+      {
+         "author": "Rick and Morty",
+         "url": "aaaaaaaaaaaaaa",
+         "name": "Rick and Morty",
+         "thumbnail": "aaaaaaaaaaaaaa"
+      }, 
+      {
+         "author": "Rick and Morty",
+         "url": "aaaaaaaaaaaaaaaaa",
+         "name": "Rick and Morty",
+         "thumbnail": "aaaaaaaaaaaaaaaa"
+      }, 
+      {
+         "author": "Rick and Morty",
+         "url": "aaaaaaaaaaaaaa",
+         "name": "Rick and Morty",
+         "thumbnail": "aaaaaaaaaaaaa"
+      }, 
+      {
+         "author":"Rick and Morty",
+         "url":"aaaaaaaaaaaa",
+         "name":"Rick and Morty",
+         "thumbnail":"aaaaaaaaaaa"
+      }
+   ]
+}
