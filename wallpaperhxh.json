@@ -18,7 +18,19 @@
          "name": "hisoka",
          "thumbnail": "https://i.pinimg.com/564x/1d/26/37/1d2637d140637834e3907fb28ed156cf.jpg"
       }, 
+       {
+         "author": "hunterxhunter",
+         "url": "http://media.comicbook.com/2017/01/hunter-x-hunter-225387-1280x0.png",
+         "name": "Gon",
+         "thumbnail": "http://media.comicbook.com/2017/01/hunter-x-hunter-225387-1280x0.png"
+      },
       {
+         "author": "hunterxhunter",
+         "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbqtTD4RmhnXGNA0mLQI1PlDrMpnPBaXXIMSlTOB5t1-aI9QGi",
+         "name": "hisoka",
+         "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbqtTD4RmhnXGNA0mLQI1PlDrMpnPBaXXIMSlTOB5t1-aI9QGi"
+      },
+       {
          "author":"hunterxhunter",
          "url":"https://i.pinimg.com/564x/48/76/0b/48760becdbddf50bbbb949938af34076.jpg",
          "name":"killia",
